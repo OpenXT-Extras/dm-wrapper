@@ -1,0 +1,11 @@
+----------
+DM-WRAPPER
+----------
+
+This now defunct project was used as a QEMU wrapper program long ago on
+XenClient (~2012). It was superseded by the dm-agent project found here:
+
+https://github.com/OpenXT/dm-agent
+
+In fact it looks as though dm-agent may have been initially created off of
+dm-wrapper.
